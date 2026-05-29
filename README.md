@@ -86,9 +86,8 @@ N_CLASSES          = 7      # emotion classes in FER2013
 ---
 
 ## Paper
-
 Full write-up including methodology, results, and discussion:
-[`docs/facial_emotion_recognition.pdf`](https://github.com/Tristonious/facial_emotion_recognition/blob/main/docs/facial_emotion_recognition.pdf?raw=true)
+[`docs/facial_emotion_recognition.pdf`](https://github.com/Tristonious/facial_emotion_recognition/blob/main/docs/facial_emotion_recognition.pdf)
 
 ---
 
